@@ -5,7 +5,6 @@ A GNOME 3.8 theme for GNOME Shell, GTK 3, Mutter, and Firefox.
 ### GNOME Shell, GTK 3, Mutter
 * Put the entire repository in `/usr/share/themes/`
 * You can then use the Tweak Tool to set the themes.
-* It is safe to remove the firefox.css files from the directory.
 
 ### Firefox
 * Install the [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) extension.
